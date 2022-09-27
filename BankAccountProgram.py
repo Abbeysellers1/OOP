@@ -1,4 +1,6 @@
 #This program demonstrates the BankAccount class.
+#THE PROGRAM ACCESSES THE METHOD TO EFFECT THE ATTRIBUTES
+
 
 import BankAccountClass as bc
 
